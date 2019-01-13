@@ -1,0 +1,22 @@
+body{
+  background-color: #cdffeb;
+  color: #07456f;
+  font-family: 'Viga', sans-serif;
+  text-align: center;
+}
+
+h1{
+  font-size: 5rem;
+}
+
+h2{
+  font-size: 3rem;
+  margin-bottom:15rem;
+  font-family: 'Passion One', cursive;
+}
+
+footer a{
+  color: #009f9d;
+
+  text-decoration: none;
+}
